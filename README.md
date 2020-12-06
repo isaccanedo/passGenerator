@@ -1,2 +1,2 @@
-# passGenerator
-[Verifique aqui](https://github.com/isaccanedo/passGenerator)
+# :star: passGenerator
+[Verifique aqui](https://isaccanedo.github.io/passGenerator/)
